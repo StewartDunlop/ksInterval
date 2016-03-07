@@ -1,3 +1,4 @@
+/*
 (function () {
   'use strict';
 
@@ -28,4 +29,6 @@
       roles: ['user']
     });
   }
+
 })();
+*/

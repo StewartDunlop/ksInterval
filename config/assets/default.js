@@ -18,7 +18,10 @@ module.exports = {
         'public/lib/angular-file-upload/angular-file-upload.js',
         'public/lib/owasp-password-strength-test/owasp-password-strength-test.js'
       ],
-      tests: ['public/lib/angular-mocks/angular-mocks.js']
+      tests: [
+        'public/lib/angular-mocks/angular-mocks.js',
+        'public/lib/chai/chai.js'
+      ]
     },
     css: [
       'modules/*/client/css/*.css'

@@ -1,3 +1,4 @@
+/*
 (function () {
   'use strict';
 
@@ -77,3 +78,4 @@
     return new ArticlesService();
   }
 })();
+*/
